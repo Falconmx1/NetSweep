@@ -13,7 +13,7 @@ Herramienta de escaneo de red **más potente que nmap**, con detección de versi
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/NetSweep.git
+git clone https://github.com/Falconmx1/NetSweep.git
 cd NetSweep
 pip install -r requirements.txt
 python setup.py install
